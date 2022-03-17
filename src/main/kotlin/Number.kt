@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     val minByte: Byte = -128
     val maxByte: Byte = 127 // 8bit
     val minShort: Short = -32768
